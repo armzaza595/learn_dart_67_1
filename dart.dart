@@ -8,4 +8,7 @@ void main(){
     print("Your age is $age,");
 
     String userName = "Alice";
+   int userAge = 12;
+   double temperature = 36.6;
+   bool isActive = true;
 }
